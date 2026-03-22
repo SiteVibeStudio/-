@@ -14,14 +14,16 @@
 - 🚀 **Extreme Performance:** 100/100 Lighthouse score achieved through lightweight architecture.
 - 🌙 **Native Dark Mode:** Beautifully designed, handcrafted dark theme default setup.
 - 📱 **Mobile First:** Responsive layouts that perfectly adapt to any device and screen size.
+- 🎨 **Future Clinic Layout:** Flawless recreation of complex Dribbble UI, including intricate, CSS-only 3D floating elements.
 - 🔍 **SEO Optimized:** Built-in basic SEO meta tags and OpenGraph component for better search accessibility.
 - 🖼️ **Modern Standards:** Built with support for modern web formats, lightweight structure, and typography.
 - ✍️ **Hand-Coded Perfection:** Every line of code is meticulously and manually written without relying on any automated generation, ensuring maximum quality control.
 - 📦 **Repository Initialization:** Project architecture deliberately structured and committed manually to ensure clarity and version history integrity.
 
-- 🚀 **أداء فائق:** أداء عالي وسريع لتطبيقات الويب الخاصة بك.
+- 🚀 **أداء فائق:** أداء عالي وسريع لتطبيقات الويب الخاصةيم.
 - 🌙 **وضع مظلم أصلي:** إعداد الوضع المظلم الافتراضي المصمم بشكل جميل.
 - 📱 **متوافق مع الهواتف:** تخطيطات مرنة تتكيف تمامًا مع أي جهاز.
+- 🎨 **تصميم Future Clinic:** إعادة إنشاء احترافية واجهة مستخدم معقدة من Dribbble، وتشمل عناصر 3D عائمة ومبرمجة بالكامل بـ CSS فقط.
 - 🔍 **تحسين محركات البحث:** مكونات SEO المدمجة لتحسين الظهور في محركات البحث.
 - 🖼️ **معايير حديثة:** مبني لدعم تنسيقات الويب الحديثة، وهيكل خفيف الوزن.
 - ✍️ **برمجة يدوية:** كل سطر من الأكواد البرمجية تمت كتابته يدويًا بعناية فائقة لضمان أعلى مستويات الجودة.
