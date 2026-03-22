@@ -17,6 +17,7 @@
 - 🔍 **SEO Optimized:** Built-in basic SEO meta tags and OpenGraph component for better search accessibility.
 - 🖼️ **Modern Standards:** Built with support for modern web formats, lightweight structure, and typography.
 - ✍️ **Hand-Coded Perfection:** Every line of code is meticulously and manually written without relying on any automated generation, ensuring maximum quality control.
+- 📦 **Repository Initialization:** Project architecture deliberately structured and committed manually to ensure clarity and version history integrity.
 
 - 🚀 **أداء فائق:** أداء عالي وسريع لتطبيقات الويب الخاصة بك.
 - 🌙 **وضع مظلم أصلي:** إعداد الوضع المظلم الافتراضي المصمم بشكل جميل.
@@ -24,6 +25,7 @@
 - 🔍 **تحسين محركات البحث:** مكونات SEO المدمجة لتحسين الظهور في محركات البحث.
 - 🖼️ **معايير حديثة:** مبني لدعم تنسيقات الويب الحديثة، وهيكل خفيف الوزن.
 - ✍️ **برمجة يدوية:** كل سطر من الأكواد البرمجية تمت كتابته يدويًا بعناية فائقة لضمان أعلى مستويات الجودة.
+- 📦 **تهيئة المستودع:** تم بناء هيكل المشروع وإعداد التحكم في الإصدارات بشكل يدوي لضمان وضوح الكود.
 
 ---
 
